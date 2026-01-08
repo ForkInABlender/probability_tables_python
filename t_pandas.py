@@ -5,7 +5,8 @@
 In order to carve down the risk of what problem leads to brown-versus-blue eye color tests being played with, this now exists here for.
 
 Analyze given a set of 135 actors total and remove the common actors amongst both subgroups ( p-2 versus p-3 ). Instead of looping forward,
- loop backwards to see at each decrement where the problem space could/likely be given a max of 135 potential actors at play given any chaotic system.
+ loop backwards to see at each decrement where the problem space could/likely be given a max of 135 potential actors at play given 
+ any chaotic system.
 
 """
 
